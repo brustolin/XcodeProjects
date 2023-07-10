@@ -14,9 +14,26 @@ By using these templates, you can save time and effort by avoiding repetitive se
 ## Project Templates
 This repository contains the following Xcode projects:
 
-- [iOS Storyboard Swift](iOSStoryboardSwift/)
-- [iOS Storyboard Objc](iOSStoryboardObjc/)
-- [iOS SwiftUI](iOSSwiftUI/)
+- iOS projects
+    - [Swift app with Storyboard](iOS/iOSStoryboardSwift/)
+    - [Objc app with Storyboard](iOS/iOSStoryboardObjc/)
+    - [SwiftUI app](iOS/iOSSwiftUI/)
+    - [Swift game with SpriteKit](iOS/iosGameSwiftSpriteKit/)
+- macOS Projects
+    - [Swift app with Storyboard](macOS/macOSStoryboardSwift/)
+    - [Objc app with Storyboard](macOS/macOSStoryboardObjc/)
+    - [SwiftUI app](macOS/macOSSwiftUI/)
+    - [Swift game with SpriteKit](macOS/macOSGameSwiftSpriteKit/)
+    - [Swift app with XIB](macOS/macOSXIBSwift/)
+    - [Objc app with XIB](macOS/macOSXIBObjc/)
+- tvOS Projects
+    - [Swift app with Storyboard](tvOS/tvOSStoryboardSwift/)
+    - [Objc app with Storyboard](tvOS/tvOSStoryboardObjc/)
+    - [SwiftUI app](tvOS/tvOSSwiftUI/)
+- watchOS Projects
+    - [watchOS app Only](watchOS/watchOSOnly/)
+    - [watchOS app with companion iOS app](watchOS/watchOSCompanionApp/)
+
 
 ## Contributing
 Contributions to this repository are welcome! If you have additional Xcode project templates that you would like to share with the community, follow these steps:
