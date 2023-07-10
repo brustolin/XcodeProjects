@@ -36,11 +36,11 @@ This repository contains the following Xcode projects:
 
 
 ## Contributing
-Contributions to this repository are welcome! If you have additional Xcode project templates that you would like to share with the community, follow these steps:
+Contributions to this repository are welcome! If you want to add additional Xcode projects that are not contemplated in this repository, please follow these steps:
 
 1. Fork this repository.
-2. Add your project template(s) to the appropriate category or create a new one if needed.
-3. Update this README file to include a brief description of your template(s).
+2. Add the project to the appropriate directory or create a new one if needed.
+3. Update this README file to include the new project.
 4. Submit a pull request, and we will review your contribution.
 
-Please ensure that your project templates are well-documented and adhere to best practices.
+Every project should be an unmodified Xcode project that was created using the Xcode project wizard alone. No changes after the wizard closes are allowed.
